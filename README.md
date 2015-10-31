@@ -1,2 +1,4 @@
 # LaTeX-presentation
-I TeX presentation I created for my diploma thesis
+A TeX presentation I created for my diploma thesis
+
+Please improve if you can/want
